@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Abhinav Dwivedi</h1>
+<h1 align="center">Hi<img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Abhinav Dwivedi</h1>
 <h4 align="center">A motivated and detail-oriented B.Tech CSE student at UPES, passionate about building next-gen AI-powered web applications.</h4>
 </div>
 <div align="center">
