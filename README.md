@@ -3,7 +3,7 @@
 <h4 align="center">A motivated and detail-oriented B.Tech CSE student at UPES, passionate about building next-gen AI-powered web applications.</h4>
 </div>
 <div align="center">
-<a href="https://www.google.com/search?q=https://github.com/your-username">
+<a href="https://www.google.com/search?q=https://github.com/abhinavdwivedi05">
 <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake">
 </a>
 </div>
@@ -51,9 +51,9 @@
 <h2 align="center">GitHub Stats</h2>
 <br>
 <p align="center">
-<a href="https://www.google.com/search?q=https://github.com/your-username">
-<img width="49.5%" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dyour-username%26show_icons%3Dtrue%26theme%3Dgruvbox%26hide_border%3Dtrue" alt="GitHub Stats">
-<img width="49.5%" src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dyour-username%26theme%3Dgruvbox%26hide_border%3Dtrue" alt="GitHub Streak">
+<a href="https://www.google.com/search?q=https://github.com/abhinavdwivedi05">
+<img width="49.5%" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dabhinavdwivedi05%26show_icons%3Dtrue%26theme%3Dgruvbox%26hide_border%3Dtrue" alt="GitHub Stats">
+<img width="49.5%" src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dabhinavdwivedi05%26theme%3Dgruvbox%26hide_border%3Dtrue" alt="GitHub Streak">
 </a>
 </p>
 <br>
@@ -66,8 +66,8 @@
 <samp>
 <br>
 <h2 align="center">Latest Contribution</h2>
-<a href="https://www.google.com/search?q=https://github.com/your-username">
-<img alt="Abhinav's Activity Graph" src="https://www.google.com/search?q=https://activity-graph.herokuapp.com/graph/%3Fusername%3Dyour-username%26bg_color%3D000%26color%3Dfff%26line%3D00E676%26point%3Dfff%26hide_border%3Dtrue">
+<a href="https://www.google.com/search?q=https://github.com/abhinavdwivedi05">
+<img alt="Abhinav's Activity Graph" src="https://www.google.com/search?q=https://activity-graph.herokuapp.com/graph/%3Fusername%3Dabhinavdwivedi05%26bg_color%3D000%26color%3Dfff%26line%3D00E676%26point%3Dfff%26hide_border%3Dtrue">
 </a>
 <br>
 </samp>
