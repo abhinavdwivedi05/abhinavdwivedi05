@@ -122,26 +122,21 @@ Node.js • Express • MongoDB
 ## GitHub Statistics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=abhinavdwivedi05&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavdwivedi05&theme=github-dark-blue&hide_border=true"/>
-
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=abhinavdwivedi05&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+  <img width="49%" src="https://streak-stats.demolab.com?user=abhinavdwivedi05&theme=github-dark&hide_border=true"/>
 </p>
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavdwivedi05&layout=compact&theme=github_dark&hide_border=true"/>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavdwivedi05&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
-
----
-
-## GitHub Activity
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhinavdwivedi05&theme=github-dark&hide_border=true"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=abhinavdwivedi05&theme=github-dark&hide_border=true&area=true"/>
 </p>
 
----
+<p align="center">
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=abhinavdwivedi05&theme=algolia&no-frame=true&row=1&column=6"/>
+</p>
 
 ## GitHub Trophies
 
@@ -164,15 +159,15 @@ Node.js • Express • MongoDB
 <p align="center">
 
 <a href="https://linkedin.com/in/abhinav-dwivedi05">
-<img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
+<img src="https://skillicons.dev/icons?i=linkedin" width="35"/>
 </a>
 
 <a href="mailto:abhinavdwiveditkg@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="48"/>
+<img src="https://skillicons.dev/icons?i=gmail" width="35"/>
 </a>
 
 <a href="https://abhinav-dwivedi-portfolio.vercel.app/">
-<img src="https://skillicons.dev/icons?i=vercel" width="48"/>
+<img src="https://skillicons.dev/icons?i=vercel" width="35"/>
 </a>
 
 </p>
