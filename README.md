@@ -1,53 +1,54 @@
-<h1 align="center">Hi 👋, I'm Abhinav Dwivedi</h1>
+<h1 align="center">Abhinav Dwivedi</h1>
 
-<h3 align="center">
+<p align="center">
 Full Stack Developer • AI Enthusiast • Java & Spring Boot Developer
-</h3>
-
-<p align="center">
-Building scalable web applications, solving DSA problems, and exploring AI to create impactful software.
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=abhinavdwivedi05&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/abhinavdwivedi05?label=Followers&style=social" />
-<img src="https://img.shields.io/github/stars/abhinavdwivedi05?affiliations=OWNER&style=social" />
+Building scalable web applications, backend systems, and AI-powered solutions.
+</p>
+
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=abhinavdwivedi05">
+    <img src="https://komarev.com/ghpvc/?username=abhinavdwivedi05&label=Profile+Views&style=flat-square" />
+  </a>
+  <a href="https://github.com/abhinavdwivedi05?tab=followers">
+    <img src="https://img.shields.io/github/followers/abhinavdwivedi05?style=flat-square" />
+  </a>
 </p>
 
 ---
 
-# 🚀 About Me
+## About
 
-- 🎓 **B.Tech CSE (AI & Full Stack)** @ UPES, Dehradun
-- 📈 **CGPA:** 8.4/10
-- 👨‍💼 **Vice Chairman** — IEEE Computational Intelligence Society, UPES
-- 💼 Former **Web Developer Intern @ G Smart LLP**
-- 💻 Solved **190+ LeetCode Problems**
-- 🔥 **130+ Days** of Consistent Coding
-- 🌱 Learning **Spring Boot • Microservices • System Design • DSA**
-- 🤖 Interested in **AI, Backend Engineering & Scalable Systems**
-- 🚀 Open to **Internships, Open Source & Startup Collaborations**
-
----
-
-# 🌐 Portfolio & Resume
-
-🌍 Portfolio: **https://abhinav-dwivedi-portfolio.vercel.app/**
-
-📄 Resume:
-**https://drive.google.com/file/d/1Tz0JFEOfsLKmzHCUOsW0yOyv2aRHcPir/view**
-
-📫 Email:
-**abhinavdwiveditkg@gmail.com**
+- B.Tech Computer Science (AI & Full Stack), **UPES Dehradun** (2023–2027)
+- CGPA: **8.4 / 10**
+- Vice Chairman, **IEEE Computational Intelligence Society, UPES**
+- Former **Web Developer Intern** at **Global Smart Investor LLP**
+- Solved **190+ LeetCode Problems**
+- Consistent DSA practitioner with **130+ coding days**
+- Interested in **Backend Engineering, AI, Distributed Systems, and Full Stack Development**
+- Currently learning **Spring Boot, Microservices, System Design, and Advanced DSA**
 
 ---
 
-# 🛠 Tech Stack
+## Experience
+
+### Web Developer Intern
+**Global Smart Investor LLP**
+
+- Developed and maintained web applications.
+- Worked on modern frontend technologies and backend integrations.
+- Collaborated with the development team to deliver production-ready features.
+
+---
+
+## Tech Stack
 
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,cpp" />
+<img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,html,css,sql" />
 </p>
 
 ### Frontend
@@ -71,115 +72,107 @@ Building scalable web applications, solving DSA problems, and exploring AI to cr
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,figma,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma,vscode,linux" />
 </p>
 
 ---
 
-# 🚀 Featured Projects
+## Featured Projects
 
-### 🎓 Campus Resource Optimization System
+### Campus Resource Optimization System
 
-AI-powered campus management platform with intelligent classroom allocation, timetable optimization, complaint management and analytics.
+AI-powered platform for intelligent classroom allocation, timetable optimization, complaint management, and campus analytics.
 
-**Tech**
+**Tech Stack**
+
 React • FastAPI • MongoDB • Python
 
 ---
 
-### 🤖 SkillSwap
+### Lost & Found Management System
 
-A modern full-stack web platform for peer-to-peer skill exchange.
+A full-stack Lost & Found platform with role-based authentication, modern UI, and Spring Boot backend.
 
-**Tech**
+**Tech Stack**
+
+Spring Boot • React • MySQL
+
+---
+
+### SkillSwap
+
+A full-stack application for peer-to-peer skill sharing with authentication and responsive UI.
+
+**Tech Stack**
+
 React • Node.js • MongoDB
 
 ---
 
-### 🎥 AI Educational Video Generator
+### Student Feedback Portal
 
-AI-powered application for automatically generating educational videos.
+Feedback management platform for students and faculty.
 
----
+**Tech Stack**
 
-### 📚 Student Feedback Portal
-
-Complete feedback management system built with Node.js and MongoDB.
+Node.js • Express • MongoDB
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=abhinavdwivedi05&theme=algolia&margin-w=15&margin-h=15&column=4" />
-</p>
-
----
-
-# 📈 GitHub Stats
+## GitHub Statistics
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhinavdwivedi05&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=abhinavdwivedi05&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavdwivedi05&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavdwivedi05&theme=github-dark-blue&hide_border=true"/>
 
 </p>
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavdwivedi05&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavdwivedi05&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 ---
 
-# 💻 LeetCode
+## GitHub Activity
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/abhinavdwivedi05?theme=dark&font=Baloo&ext=contest" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhinavdwivedi05&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
 
-# 📊 GitHub Activity Graph
+## GitHub Trophies
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhinavdwivedi05&theme=tokyo-night&hide_border=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=abhinavdwivedi05&theme=algolia&column=4&margin-w=15&margin-h=15&no-frame=true"/>
 </p>
 
 ---
 
-# 🌐 Connect With Me
+## LeetCode
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/Abhinav_Dwivedi05?theme=dark&font=Nunito&ext=contest"/>
+</p>
+
+---
+
+## Connect
 
 <p align="center">
 
 <a href="https://linkedin.com/in/abhinav-dwivedi05">
-<img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
+<img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
 </a>
 
 <a href="mailto:abhinavdwiveditkg@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="55"/>
+<img src="https://skillicons.dev/icons?i=gmail" width="48"/>
 </a>
 
 <a href="https://abhinav-dwivedi-portfolio.vercel.app/">
-<img src="https://skillicons.dev/icons?i=vercel" width="55"/>
+<img src="https://skillicons.dev/icons?i=vercel" width="48"/>
 </a>
 
 </p>
-
----
-
-# 🎯 2026 Goals
-
-- ✅ 300+ LeetCode Problems
-- ✅ Crack a Software Engineering Internship
-- ✅ Build AI SaaS Projects
-- ✅ Contribute to Open Source
-- ✅ Master Spring Boot & System Design
-- ✅ Publish Technical Blogs
-- ✅ Grow as an IEEE Leader
-
----
-
-# ⚡ Fun Fact
-
-> "Consistency compounds. Every commit is another brick in the future I'm building."
