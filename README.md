@@ -1,3 +1,25 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Abhinav Dwivedi Banner" width="100%">
+</p>
+
+<h1 align="center">Abhinav Dwivedi</h1>
+
+<p align="center">
+  <strong>Full Stack Developer • AI Enthusiast • Java & Spring Boot Developer</strong>
+</p>
+
+<p align="center">
+Building scalable backend systems, modern web applications, and AI-powered solutions.
+</p>
+
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=abhinavdwivedi05">
+    <img src="https://komarev.com/ghpvc/?username=abhinavdwivedi05&label=Profile%20Views&style=flat-square" />
+  </a>
+  <a href="https://github.com/abhinavdwivedi05?tab=followers">
+    <img src="https://img.shields.io/github/followers/abhinavdwivedi05?style=flat-square" />
+  </a>
+</p>
 <h1 align="center">Abhinav Dwivedi</h1>
 
 <p align="center">
