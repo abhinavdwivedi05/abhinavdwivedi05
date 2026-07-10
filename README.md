@@ -21,14 +21,7 @@ Building scalable backend systems, modern web applications, and AI-powered solut
   </a>
 </p>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=abhinavdwivedi05">
-    <img src="https://komarev.com/ghpvc/?username=abhinavdwivedi05&label=Profile%20Views&style=flat-square" />
-  </a>
-  <a href="https://github.com/abhinavdwivedi05?tab=followers">
-    <img src="https://img.shields.io/github/followers/abhinavdwivedi05?style=flat-square" />
-  </a>
-</p>
+
 
 ---
 
